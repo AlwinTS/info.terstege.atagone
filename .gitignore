@@ -7,6 +7,7 @@ node_modules/
 # Environment and secrets
 env.json
 CLAUDE.md
+.claude/
 *.env
 .env.local
 .env.*.local
