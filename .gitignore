@@ -8,6 +8,8 @@ node_modules/
 env.json
 CLAUDE.md
 .claude/
+scripts/generate-images.js
+CONTRIBUTING.md
 *.env
 .env.local
 .env.*.local
