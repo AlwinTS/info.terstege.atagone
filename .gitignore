@@ -13,6 +13,7 @@ CONTRIBUTING.md
 *.env
 .env.local
 .env.*.local
+nul
 
 # IDE and editors
 .idea/
